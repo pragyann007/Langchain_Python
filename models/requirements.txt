@@ -1,0 +1,18 @@
+# Environment & Utilities
+python-dotenv
+
+# Core Machine Learning & Data Science
+
+
+# Hugging Face Ecosystem
+transformers
+huggingface_hub
+
+# LangChain Core Ecosystem
+langchain
+langchain-core
+langchain-community
+
+# LangChain Google Gemini Integration
+langchain-google-genai
+google-genai
