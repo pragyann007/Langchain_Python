@@ -21,7 +21,6 @@ const prompt = ChatPromptTemplate.fromMessages([
 
 const model = new ChatGoogleGenerativeAI({
   model: "gemini-2.5-flash",
-  apiKey: "AQ.Ab8RN6KsDfP1bfF6feE0Kl-QJMcB7NSDSV7yjQGx95dMyuUqeg",
   temperature: 1.7,
 });
 
